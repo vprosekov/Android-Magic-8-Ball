@@ -2,7 +2,7 @@
 Android Magic 8 Ball app.
 
 # What can it  do?
-  - Show randomized answer(Yes or No variations)
+  - Shows randomized answer(Yes or No variations)
 
 # What I learnt?
   - Kotlin basics
